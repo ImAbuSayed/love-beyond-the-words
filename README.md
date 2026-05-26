@@ -15,7 +15,7 @@
 | **Written On** | May 25, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-beyond-the-words/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Love Beyond The Words](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-beyond-the-words/) |
+| **Get License** | [Request Licensing for Love Beyond The Words](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-beyond-the-words/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `652e2b9806c891c3798041b7cbe5eee36d0f034c303dceb7ccfaca1e67f0d206` |
 | **Timestamp** | May 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
